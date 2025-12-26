@@ -10,6 +10,10 @@ This is where I experiment, build, and play with Data Science and Machine Learni
 
 ## 🛠 Builds
 
+### **Nutrition Time Series Analysis (2022–2025)**
+- **Software & Tools:** Python, NumPy, Pandas, Matplotlib, StatsModels, Scikit-learn, Power BI, Tableau
+- **Repo:** [Nutrition Time Series Analysis (2022–2025)](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data?tab=readme-ov-file#nutrition-time-series-analysis-20222025)
+
 ### **Regression Framework for Systolic Blood Pressure Prediction**    
 - **Software & Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, GGPlot, SciPy, StatsModels, Scikit-learn
 - **Repo:** [Regression Framework for SBP Prediction](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework)

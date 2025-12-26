@@ -74,6 +74,11 @@ ________________________________________________________________________________
 
 ## Lab ⇰ Experiment • Build • Explore
 
+### **Nutrition Time Series Analysis (2022–2025)**
+- Python, NumPy, Pandas, Matplotlib, StatsModels, Scikit-learn
+- BI Tools: Power BI, Tableau
+- [Nutrition Time Series Analysis (2022–2025)](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data?tab=readme-ov-file#nutrition-time-series-analysis-20222025)
+
 ### Linear Regression (SLR & MLR)
 - Python: NumPy, Pandas, Matplotlib, Seaborn, GGPlot, SciPy, StatsModels, Scikit-learn
 - [Regression Framework](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework)

@@ -77,16 +77,34 @@ ________________________________________________________________________________
 ### **Nutrition Time Series Analysis (2022–2025)**
 - Python: NumPy, Pandas, Matplotlib, StatsModels, Scikit-learn
 - BI Tools: Power BI, Tableau
-- [Nutrition Time Series Analysis (2022–2025)](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data?tab=readme-ov-file#nutrition-time-series-analysis-20222025)
+- Repo: [Nutrition Time Series Analysis (2022–2025)](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data?tab=readme-ov-file#nutrition-time-series-analysis-20222025)
+- Read Articles:
+    - [Building a Real-World Time Series Project with Nutrition Data](https://nsdsda.medium.com/building-a-real-world-time-series-project-with-nutrition-data-eff2970c2c8f)
+    - [Handling Dates, Times & Time Series Data in Pandas](https://pub.towardsai.net/handling-dates-times-time-series-data-in-pandas-d4e8fcc46c62)
+- Kaggle Notebooks:
+    - [Handling Dates, Times, and Time Series Data](https://www.kaggle.com/code/nibeditasahu/handling-dates-times-and-time-series-data)
+    - [Time Series Analysis](https://www.kaggle.com/code/nibeditasahu/time-series-analysis)
+    - [Time Series Forecasting](https://www.kaggle.com/code/nibeditasahu/time-series-forecasting)
 
 ### Linear Regression (SLR & MLR)
 - Python: NumPy, Pandas, Matplotlib, Seaborn, GGPlot, SciPy, StatsModels, Scikit-learn
-- [Regression Framework](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework)
+- Repo: [Regression Framework](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework)
+- Read Article: [Building a Complete Regression Framework for Systolic Blood Pressure Prediction](https://python.plainenglish.io/building-a-complete-regression-framework-for-systolic-blood-pressure-prediction-d454b813a0ad)
+- Kaggle Notebooks:
+    - [Simple Linear Regression](https://www.kaggle.com/code/nibeditasahu/simple-linear-regression)
+    - [Multiple Linear Regression (2-Predictors)](https://www.kaggle.com/code/nibeditasahu/multiple-linear-regression-2-predictors)
+    - [Multiple Linear Regression (4-Predictors)](https://www.kaggle.com/code/nibeditasahu/multiple-linear-regression-4-predictors)
+    - [Manual Beta Computation](https://www.kaggle.com/code/nibeditasahu/manual-beta-computation)
+    - [Linear Regression with Scikit-learn](https://www.kaggle.com/code/nibeditasahu/linear-regression-with-scikit-learn)
+    - [Linear Regression with SciPy and NumPy](https://www.kaggle.com/code/nibeditasahu/linear-regression-with-scipy-and-numpy)
 
 ### Body Fat Calculator
 - Python: Math, IpyWidgets, IPython, Pandas, Streamlit
-- [Body Fat Calculator](https://github.com/nibeditans/Body-Fat-Calculator)
-
+- Repo: [Body Fat Calculator](https://github.com/nibeditans/Body-Fat-Calculator)
+- Read Articles:
+    - [Body Fat Calculator: Command-Line and Interactive Notebook](https://ai.plainenglish.io/body-fat-calculator-command-line-and-interactive-notebook-aa619e3d0f42)
+    - [Body Fat Calculator: Pandas and Streamlit](https://python.plainenglish.io/body-fat-calculator-pandas-and-streamlit-a9f91391cc53)
+- Kaggle Notebook: [Body Fat Calculator](https://www.kaggle.com/code/nibeditasahu/body-fat-calculator)
 ____________________________________________________________________________________________________
 
 ## Mini-Projects

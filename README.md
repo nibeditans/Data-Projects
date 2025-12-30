@@ -110,7 +110,7 @@ ________________________________________________________________________________
 ## Mini-Projects
 
 ### Snake Game Using Turtle
-- Python: Turtle
+- Standard Python, Turtle
 - [Snake Game](https://github.com/nibeditans/Snake-Game)
 
 ### Rock Paper Scissors
@@ -224,7 +224,7 @@ ________________________________________________________________________________
 - [Healthy Programmer](https://github.com/nibeditans/Healthy-Programmer-using-Python)
 
 ### Python Doodles
-- Python: Turtle
+- Standard Python, Turtle
 - [Python Doodles](https://github.com/nibeditans/PythonDoodles)
 
 ____________________________________________________________________________________________________
@@ -234,3 +234,4 @@ For more interesting DS & DA related Stuff, check out my Portfolio & Profiles:
 - GitHub: [nibeditans](https://github.com/nibeditans)
 - LinkedIn: [Nibedita Sahu](https://in.linkedin.com/in/ns-nibedita-sahu)
 - Medium: [NIBEDITA (NS)](https://nsdsda.medium.com/)
+- Kaggle: [Nibedita Sahu](https://www.kaggle.com/nibeditasahu)

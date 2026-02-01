@@ -147,3 +147,9 @@ Pricing decisions must be validated with:
 * and time
 
 Not gut feel.
+
+### 📄 **Quick-read version available**
+
+A condensed, visual PDF version of this case study is shared on my LinkedIn for a fast, high-level overview.
+
+👉 View the PDF summaries on LinkedIn: **[Documents section](https://www.linkedin.com/in/ns-nibedita-sahu/recent-activity/documents/)**  

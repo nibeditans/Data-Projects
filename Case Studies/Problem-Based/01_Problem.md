@@ -140,3 +140,9 @@ In this case:
 
 Strong analysis doesn’t stop at reading dashboards.
 It verifies numbers, questions averages, and exposes what metrics conceal.
+
+### 📄 **Quick-read version available**
+
+A condensed, visual PDF version of this case study is shared on my LinkedIn for a fast, high-level overview.
+
+👉 View the PDF summaries on LinkedIn: **[Documents section](https://www.linkedin.com/in/ns-nibedita-sahu/recent-activity/documents/)**  

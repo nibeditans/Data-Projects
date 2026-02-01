@@ -154,3 +154,9 @@ In other contexts (costs, debt, churn, headcount), the same mistake can **silent
 
 
 This case study illustrates how small reasoning shortcuts can materially alter business expectations. The analyst's role is not merely to calculate growth, but to **validate the mental models behind forecasts**.
+
+### 📄 **Quick-read version available**
+
+A condensed, visual PDF version of this case study is shared on my LinkedIn for a fast, high-level overview.
+
+👉 View the PDF summaries on LinkedIn: **[Documents section](https://www.linkedin.com/in/ns-nibedita-sahu/recent-activity/documents/)**  

@@ -24,7 +24,6 @@ The customer data provided is summarized below:
 
 Your task is to evaluate whether the headline average metric reflects business reality.
 
-
 ## Initial Analytical Concern
 
 Two immediate concerns arise when evaluating the dashboard metric:
@@ -33,7 +32,6 @@ Two immediate concerns arise when evaluating the dashboard metric:
 2. **Even if correct, does an average meaningfully represent customer revenue behavior in this business?**
 
 Rather than accepting the dashboard number at face value, the analysis begins by recomputing the KPI directly from the underlying data.
-
 
 ## Data Breakdown & Computation
 
@@ -68,7 +66,6 @@ print(f"Monetization Rate = {(monetization_rate * 100):.0f}%")  # 10%
 
 This computation produces an **actual ARPC of ₹1,080**, not ₹2,000 as reported on the dashboard.
 
-
 ## Solution
 
 The leadership conclusion is **not supported by the data**, for two independent reasons:
@@ -80,7 +77,6 @@ The leadership conclusion is **not supported by the data**, for two independent 
    While ₹1,080 is numerically correct, it does not describe typical customer behavior. The average is driven almost entirely by a very small premium customer segment.
 
 As a result, the claim that "customers are spending well" does not hold.
-
 
 ## Why ARPC Misrepresents Customer Reality?
 
@@ -98,23 +94,18 @@ In effect:
 
 The average masks this structure and creates a misleading narrative of broad-based customer spending.
 
-
 ## Business Implications & Risk Exposure
 
 This revenue profile introduces several material risks:
 
 * **Revenue concentration risk**    
   A small number of premium customers financially sustain the business.
-
 * **False confidence in revenue quality**    
   Customer growth may be driven by free users rather than revenue contributors.
-
 * **High sensitivity to churn**    
   Losing even a few premium customers could significantly impact total revenue.
-
 * **Misleading executive dashboards**    
   Single aggregated KPIs can obscure structural weaknesses in the customer base.
-
 
 ## What Should Be Tracked Instead?
 
@@ -126,7 +117,6 @@ To better assess revenue health, the business should complement ARPC with:
 * Changes in customer mix over time
 
 These metrics reveal **who pays**, **how revenue is distributed**, and **how sustainable growth truly is**.
-
 
 ## Key Takeaway
 

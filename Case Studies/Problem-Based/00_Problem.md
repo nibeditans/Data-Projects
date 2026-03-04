@@ -22,7 +22,6 @@ You are asked to:
 2. Evaluate whether this pricing decision can be considered successful based on the information available.
 3. Identify assumptions, risks, or missing context in the leadership’s conclusion.
 
-
 ## Business Context & Leadership Claim
 
 At a glance, the claim sounds intuitive:
@@ -34,7 +33,6 @@ The implicit mental model is: "If price grows faster than volume shrinks, revenu
 
 This kind of reasoning is common in pricing discussions and often dangerous, because it relies on **directional intuition**, not verified magnitude.
 
-
 ## Analytical Reasoning
 
 Revenue is a multiplicative outcome:
@@ -44,7 +42,6 @@ $$
 $$
 
 This means small percentage changes can interact in **non‑intuitive ways**. To validate the claim, we must translate percentages into absolute numbers and compare total revenue **before vs after**.
-
 
 ## Solution (Python Verification)
 
@@ -80,7 +77,6 @@ Absolute Change b/w last month and this month: ₹20,000
 Percentage Change b/w last month and this month: 2%
 ```
 
-
 ## Insight
 
 Yes, **revenue increased**, but only by **₹20,000**, which is a **2% increase**.
@@ -91,7 +87,6 @@ This immediately exposes the illusion:
 * The 15% subscriber loss absorbs most of the upside
 
 Large percentage changes in inputs do not imply large changes in outcomes.
-
 
 ## Business Interpretation
 
@@ -118,7 +113,6 @@ A small revenue bump does not automatically justify:
 * brand damage
 * long‑term churn risk
 
-
 ## Decision & Recommendation
 
 ### What to tell leadership?
@@ -134,7 +128,6 @@ A small revenue bump does not automatically justify:
 * Monitor churn trends over the next few cycles
 * Segment churned vs retained users
 * Evaluate whether higher prices attract or repel high‑value customers
-
 
 ## Key Takeaway
 

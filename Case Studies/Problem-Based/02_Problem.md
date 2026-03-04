@@ -14,7 +14,6 @@ As an analyst, you are asked to:
 * Decide whether the forecast logic is sound or misleading
 * Explain the risk of linear thinking in growth projections
 
-
 ## Context & Why This Question Matters
 
 Growth statements like "10% per month" are common in startup updates and investor decks. While the number itself is clear, the **mental model used to interpret it often isn't**.
@@ -24,7 +23,6 @@ A claim like "we'll double in ~10 months" sounds intuitive because many people u
 > 10% × 10 months ≈ 100% growth
 
 This case study examines whether that intuition holds, and what goes wrong when linear logic is applied to a **compound growth process**.
-
 
 ## Solution
 
@@ -104,7 +102,6 @@ for month in range(1, 11):
 
 This progression makes the compounding effect visible: each month's absolute increase grows larger because it is applied on an expanding base.
 
-
 ## Validation of the Leadership Claim
 
 * The statement "we'll double in about 10 months" is **numerically incorrect**.
@@ -112,7 +109,6 @@ This progression makes the compounding effect visible: each month's absolute inc
 * After 10 months, revenue significantly **exceeds** the doubling threshold.
 
 More importantly, the issue is not just the final number, it's the **logic used to reach the conclusion**.
-
 
 ## Where the Forecast Logic Breaks?
 
@@ -131,7 +127,6 @@ As a result:
 * Short-term estimates seem conservative
 * Long-term projections become misleading
 
-
 ## Business Risk of Linear Thinking
 
 Applying linear intuition to compound processes can lead to:
@@ -143,7 +138,6 @@ Applying linear intuition to compound processes can lead to:
 
 In other contexts (costs, debt, churn, headcount), the same mistake can **silently compound risk** instead of revenue.
 
-
 ## Key Takeaways
 
 * A **10% month-over-month growth rate is compound, not linear**
@@ -151,7 +145,6 @@ In other contexts (costs, debt, churn, headcount), the same mistake can **silent
 * After 10 months, revenue reaches **~₹25.9 lakh (~2.6×)**
 * Linear shortcuts like "10% × 10 months" distort exponential realities
 * Analysts must challenge intuitive narratives, not just compute outcomes
-
 
 This case study illustrates how small reasoning shortcuts can materially alter business expectations. The analyst's role is not merely to calculate growth, but to **validate the mental models behind forecasts**.
 

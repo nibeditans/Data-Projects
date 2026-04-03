@@ -25,7 +25,6 @@ Delivery performance for the past month is summarized by order type as follows:
 | Remote     | 50               | 12                   |
 
 The company wants to understand:
-
 * Whether the reported **3-day average delivery time** accurately reflects customer experience.
 * Whether any important delivery risks are hidden within the aggregated metric.
 * Which metrics would provide a clearer picture of delivery performance.
@@ -98,7 +97,6 @@ order_share
 | Remote     | 50     | 5%              |
 
 Several important observations emerge:
-
 * **80% of customers receive deliveries in approximately 2 days.**
 * **15% of customers wait about 5 days.**
 * **5% of customers wait as long as 12 days.**
@@ -108,7 +106,6 @@ While most customers receive fast deliveries, a meaningful portion of customers 
 From the perspective of these customers, the system does not feel like a **3-day delivery service**.
 
 For example:
-
 * Regional customers wait **2.5 times longer** than Local customers.
 * Remote customers wait **6 times longer** than Local customers.
 
@@ -121,7 +118,6 @@ The average delivery time is heavily influenced by the largest segment of orders
 As a result, the overall mean reflects the performance of the majority group rather than the full range of customer experiences.
 
 This creates a situation where:
-
 * The average appears healthy.
 * Significant delivery delays experienced by smaller segments remain hidden.
 
@@ -179,7 +175,6 @@ To provide a more accurate picture of delivery performance, the dashboard should
 Reporting delivery times separately for each segment provides immediate visibility into differences across customer groups.
 
 For example:
-
 * Local customers: **2 days**
 * Regional customers: **5 days**
 * Remote customers: **12 days**
@@ -191,7 +186,6 @@ Segment-level metrics allow operational teams to quickly identify where delays o
 Metrics that capture the experience of slower deliveries are particularly useful for identifying service issues.
 
 Examples include:
-
 * **P90 delivery time**, representing the delivery time experienced by the slowest 10% of orders
 * Percentage of orders taking **more than 7 days**
 

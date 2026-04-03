@@ -17,7 +17,6 @@ This month, the business team implemented a pricing change:
 During a leadership review, a stakeholder claims: "Revenue must have gone up. The price increase is larger than the drop in users."
 
 You are asked to:
-
 1. Verify whether total revenue actually increased or decreased.
 2. Evaluate whether this pricing decision can be considered successful based on the information available.
 3. Identify assumptions, risks, or missing context in the leadership’s conclusion.
@@ -25,7 +24,6 @@ You are asked to:
 ## Business Context & Leadership Claim
 
 At a glance, the claim sounds intuitive:
-
 * Price ↑ by 20%
 * Users ↓ by 15%
 
@@ -93,22 +91,18 @@ Large percentage changes in inputs do not imply large changes in outcomes.
 ### Was the pricing decision successful?
 
 **Numerically:**
-
 * Revenue increased marginally ✅
 
 **Strategically:**
-
 * Success is **not guaranteed**
 
 Why?
-
 * We only observed **one month** of impact
 * We don’t know if churn will continue
 * We don’t know customer lifetime value (LTV)
 * We don’t know cost structure or margin sensitivity
 
 A small revenue bump does not automatically justify:
-
 * customer dissatisfaction
 * brand damage
 * long‑term churn risk
@@ -134,7 +128,6 @@ A small revenue bump does not automatically justify:
 **Percentage intuition is unreliable in multiplicative systems.**
 
 Pricing decisions must be validated with:
-
 * numbers
 * context
 * and time

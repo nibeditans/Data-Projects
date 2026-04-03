@@ -19,14 +19,12 @@ This case study examines whether that intuition actually holds, **using unit eco
 * **Current monthly sales volume:** 5,000 units
 
 Marketing proposes a campaign with the following impact:
-
 * **Expected increase in volume:** +2,000 units
 * **Additional marketing spend:** ₹2,00,000 per month
 * **No change** in price or variable cost
 
 Assumption:     
 The campaign does not alter demand quality, pricing power, or unit-level costs beyond the stated marketing spend.
-
 
 ## Current State: Baseline Economics
 
@@ -53,7 +51,6 @@ current_total_cost, current_revenue, current_profit
 
 The business is not losing money, but it has **no buffer**. Any drop in volume would immediately push it into losses.
 
-
 ## Marketing Proposal
 
 Marketing suggests increasing monthly volume from 5,000 to 7,000 units at the cost of an additional ₹2,00,000 per month.
@@ -65,7 +62,6 @@ The proposal is framed as a growth opportunity:
 * Presumed higher profit
 
 Before accepting this framing, the decision must be evaluated **incrementally**.
-
 
 ## Why Total Revenue is a Misleading Signal?
 
@@ -83,7 +79,6 @@ Profit changes only when:
 
 Everything else is noise.
 
-
 ## Unit Economics & Contribution Margin
 
 At the unit level:
@@ -94,12 +89,10 @@ At the unit level:
 **Contribution margin per unit = ₹200**
 
 This ₹200 is what each additional unit contributes toward:
-
 * covering fixed costs, and
 * generating profit once fixed costs are covered
 
 Since fixed costs are already fully covered at the current volume, **incremental units matter disproportionately**.
-
 
 ## Incremental (Marginal) Analysis
 
@@ -134,7 +127,6 @@ incremental_profit
 
 This is the **only number that matters** for the decision.
 
-
 ## Reconciliation with Full Profit View
 
 For completeness, we can reconcile this with the full before-and-after profit view.
@@ -160,7 +152,6 @@ new_profit
 
 This matches the incremental analysis exactly, confirming internal consistency.
 
-
 ## Decision & Business Interpretation
 
 The marketing campaign should be accepted.
@@ -168,7 +159,6 @@ The marketing campaign should be accepted.
 However, **not for the reason leadership initially believed**.
 
 Profit increases, not because revenue grows, but because **each additional unit carries positive contribution**, and the incremental contribution comfortably exceeds the incremental marketing spend.
-
 
 ## Key Takeaway: The Volume × Margin Illusion
 

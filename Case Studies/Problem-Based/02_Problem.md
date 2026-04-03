@@ -3,13 +3,11 @@
 ## Problem Statement
 
 A startup reports the following:
-
 * Revenue is growing at **10% per month**
 * Current monthly revenue: **₹10,00,000**
 * Leadership makes the claim: "At this rate, we'll double our revenue in about 10 months."
 
 As an analyst, you are asked to:
-
 * Validate this claim
 * Decide whether the forecast logic is sound or misleading
 * Explain the risk of linear thinking in growth projections
@@ -35,7 +33,6 @@ R_n = R_0 \times (1 + g)^n
 $$
 
 Where:
-
 * $R_0$ = Starting revenue
 * $g$ = Growth rate per month
 * $n$ = Number of months

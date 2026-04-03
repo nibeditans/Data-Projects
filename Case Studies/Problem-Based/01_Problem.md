@@ -27,7 +27,6 @@ Your task is to evaluate whether the headline average metric reflects business r
 ## Initial Analytical Concern
 
 Two immediate concerns arise when evaluating the dashboard metric:
-
 1. **Is the reported ARPC even correct when recomputed from raw data?**
 2. **Even if correct, does an average meaningfully represent customer revenue behavior in this business?**
 
@@ -81,13 +80,11 @@ As a result, the claim that "customers are spending well" does not hold.
 ## Why ARPC Misrepresents Customer Reality?
 
 Looking beyond the single average reveals a highly imbalanced customer base:
-
 * **90% of customers generate ₹0 revenue**
 * **Only 10% of customers are monetized**
 * A tiny premium segment contributes the majority of total revenue
 
 In effect:
-
 * The "average customer" implied by ARPC does not exist
 * The **typical customer is a non-paying user**
 * Revenue is heavily concentrated in a small cohort
@@ -97,7 +94,6 @@ The average masks this structure and creates a misleading narrative of broad-bas
 ## Business Implications & Risk Exposure
 
 This revenue profile introduces several material risks:
-
 * **Revenue concentration risk**    
   A small number of premium customers financially sustain the business.
 * **False confidence in revenue quality**    
@@ -110,7 +106,6 @@ This revenue profile introduces several material risks:
 ## What Should Be Tracked Instead?
 
 To better assess revenue health, the business should complement ARPC with:
-
 * Monetization rate
 * Revenue contribution by customer segment
 * Segment-level ARPC
@@ -123,7 +118,6 @@ These metrics reveal **who pays**, **how revenue is distributed**, and **how sus
 **A KPI can be wrong, and even when corrected, still tell the wrong story.**
 
 In this case:
-
 * The reported ARPC was factually incorrect
 * The corrected ARPC still hid extreme revenue concentration
 * Leadership confidence was built on a misleading abstraction

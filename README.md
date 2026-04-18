@@ -1,9 +1,23 @@
-# Data Science & Analytics Projects
+# Data Science, Machine Learning, and Analytics Projects
+
 This is a curated collection of my selected Data projects, gathered in one place for easy access and showcase.
 
 Alright! So, here's the list of a few:
 
 ----------
+
+## Customer Retention & Revenue Optimization System
+
+### Tools and Technologies Used
+- **Python:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SQLAlchemy, OS
+- **SQL:** PostgreSQL
+- **Power BI:** Power BI Desktop
+- **Presentation:** PowerPoint
+
+### Resources
+- Complete Project: [Customer Retention & Revenue Optimization System](https://github.com/nibeditans/Customer-Retention-Revenue-Optimization-System)
+- Complete Article: [How to Identify High-Value Customers and Maximize Revenue with Data Science?](https://nsdsda.medium.com/how-to-identify-high-value-customers-and-maximize-revenue-with-data-science-110f77446c6b)
+
 
 ## Electric Vehicle Population Analysis
 

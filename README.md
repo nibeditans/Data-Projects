@@ -16,7 +16,7 @@ Alright! So, here's the list of a few:
 
 ### Resources
 - Complete Project: [Customer Retention & Revenue Optimization System](https://github.com/nibeditans/Customer-Retention-Revenue-Optimization-System)
-- Complete Article: [How to Identify High-Value Customers and Maximize Revenue with Data Science?](https://nsdsda.medium.com/how-to-identify-high-value-customers-and-maximize-revenue-with-data-science-110f77446c6b)
+- Complete Project Walkthrough: [How to Identify High-Value Customers and Maximize Revenue with Data Science?](https://nsdsda.medium.com/how-to-identify-high-value-customers-and-maximize-revenue-with-data-science-110f77446c6b)
 
 
 ## Electric Vehicle Population Analysis
@@ -29,7 +29,7 @@ Alright! So, here's the list of a few:
 
 ### Resources
 - Complete Project: [Electric Vehicle Population Analysis](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis)
-- Complete Article: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
+- Complete Project Walkthrough: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
 - Kaggle Dataset: [Electric Vehicle Population Data](https://www.kaggle.com/datasets/nibeditasahu/electric-vehicle-population-analysis)
 
 
@@ -41,7 +41,7 @@ Alright! So, here's the list of a few:
 
 ### Resources
 - Complete Project: [IBM HR Employee Attrition Analysis](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data)
-- Complete Article: [Employee Attrition Analysis On IBM HR Data](https://nsdsda.medium.com/employee-attrition-analysis-on-ibm-hr-data-db3e07ebad43)
+- Complete Project Walkthrough: [Employee Attrition Analysis On IBM HR Data](https://nsdsda.medium.com/employee-attrition-analysis-on-ibm-hr-data-db3e07ebad43)
 - Kaggle Dataset: [IBM HR Employee Attrition Data](https://www.kaggle.com/datasets/nibeditasahu/ibm-hr-employee-attrition-analysis)
 
 
@@ -55,9 +55,10 @@ Alright! So, here's the list of a few:
 
 ### Resources
 - Complete Project: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis)
-- Article 1: [Customer Sales Analysis — Python Version (Part-1)](https://nsdsda.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
-- Article 2: [Customer Sales Analysis — SQL Version (Part-2)](https://nsdsda.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
-- Article 3: [Customer Sales Analysis — Power BI Version (Part-3)](https://nsdsda.medium.com/customer-sales-analysis-power-bi-version-part-3-433c21feb1e7)
+- Project Walkthroughs:
+    - Article 1: [Customer Sales Analysis — Python Version (Part-1)](https://nsdsda.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
+    - Article 2: [Customer Sales Analysis — SQL Version (Part-2)](https://nsdsda.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
+    - Article 3: [Customer Sales Analysis — Power BI Version (Part-3)](https://nsdsda.medium.com/customer-sales-analysis-power-bi-version-part-3-433c21feb1e7)
 - Kaggle Dataset: [Customer Sales Data](https://www.kaggle.com/datasets/nibeditasahu/customer-sales-analysis)
 
 
@@ -69,7 +70,7 @@ Alright! So, here's the list of a few:
 
 ### Resources
 - Complete Project: [Credit Card Financial Analysis](https://github.com/nibeditans/Credit-Card-Financial-Dashboard)
-- Complete Article: [Credit Card Financial Dashboard](https://nsdsda.medium.com/credit-card-financial-dashboard-f99bd6263b5a)
+- Complete Project Walkthrough: [Credit Card Financial Dashboard](https://nsdsda.medium.com/credit-card-financial-dashboard-f99bd6263b5a)
 - Kaggle Dataset: [Credit Card and Customers Datasets](https://www.kaggle.com/datasets/nibeditasahu/credit-card-financial-dashboard-using-power-bi)
 
 
@@ -81,7 +82,7 @@ Alright! So, here's the list of a few:
 
 ### Resources
 - Complete Project: [Super Store Sales Analysis & Forecasting](https://github.com/nibeditans/Super-Store-Sales-Dashboard)
-- Complete Article: [Super Store Sales Dashboard & Forecasting](https://nsdsda.medium.com/super-store-sales-dashboard-forecasting-b2252da4f726)
+- Complete Project Walkthrough: [Super Store Sales Dashboard & Forecasting](https://nsdsda.medium.com/super-store-sales-dashboard-forecasting-b2252da4f726)
 - Kaggle Dataset: [Super Store Sales Data](https://www.kaggle.com/datasets/nibeditasahu/super-store-sales-dashboard)
 
 ____________________________________________________________________________________________________

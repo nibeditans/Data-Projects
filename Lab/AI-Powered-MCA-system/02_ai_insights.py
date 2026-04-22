@@ -1,6 +1,5 @@
 def generate_ai_insight(summary: dict) -> tuple:
     import requests
-    import os
 
     api_key = "YOUR_API_KEY" # Replace your own API Key, I've just given a placeholder.😅
 

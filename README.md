@@ -17,6 +17,7 @@ Alright! So, here's the list of a few:
 ### Resources
 - Complete Project: [Customer Retention & Revenue Optimization System](https://github.com/nibeditans/Customer-Retention-Revenue-Optimization-System)
 - Complete Project Walkthrough: [How to Identify High-Value Customers and Maximize Revenue with Data Science?](https://nsdsda.medium.com/how-to-identify-high-value-customers-and-maximize-revenue-with-data-science-110f77446c6b)
+- Kaggle Dataset: [Customer Retention & Revenue Optimization Dataset](https://www.kaggle.com/datasets/nibeditasahu/ustomer-retention-and-revenue-optimization-dataset)
 
 
 ## Electric Vehicle Population Analysis

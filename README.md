@@ -90,7 +90,21 @@ ________________________________________________________________________________
 
 ## Lab ⇰ Experiment • Build • Explore
 
-### **Nutrition Time Series Analysis (2022–2025)**
+### Human Age Lens
+
+- Python: datetime, dateutil, streamlit
+- Repo: [How Old Are You Really?](https://github.com/nibeditans/Human-Age-Lens)
+
+### AI-Powered Marketing Campaign Intelligence System
+
+- Python: NumPy, Pandas, Requests,
+- Gen AI: LLM APIs
+- Repo: [AI-Powered Marketing Campaign Intelligence System](https://github.com/nibeditans/AI-Powered-Marketing-Campaign-Intelligence-System)
+- Read Article: [From Metrics to Decisions: Building an AI-Powered Marketing Intelligence System](https://ai.plainenglish.io/from-metrics-to-decisions-building-an-ai-powered-marketing-intelligence-system-45ed70643dbc)
+- Kaggle Notebook: [Campaign Data Simulation](https://www.kaggle.com/code/nibeditasahu/campaign-data-simulation)
+
+### Nutrition Time Series Analysis (2022–2025)
+
 - Python: NumPy, Pandas, Matplotlib, StatsModels, Scikit-learn
 - BI Tools: Power BI, Tableau
 - Repo: [Nutrition Time Series Analysis (2022–2025)](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data?tab=readme-ov-file#nutrition-time-series-analysis-20222025)
@@ -103,6 +117,7 @@ ________________________________________________________________________________
     - [Time Series Forecasting](https://www.kaggle.com/code/nibeditasahu/time-series-forecasting)
 
 ### Linear Regression (SLR & MLR)
+
 - Python: NumPy, Pandas, Matplotlib, Seaborn, GGPlot, SciPy, StatsModels, Scikit-learn
 - Repo: [Regression Framework](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework)
 - Read Article: [Building a Complete Regression Framework for Systolic Blood Pressure Prediction](https://python.plainenglish.io/building-a-complete-regression-framework-for-systolic-blood-pressure-prediction-d454b813a0ad)
@@ -115,12 +130,14 @@ ________________________________________________________________________________
     - [Linear Regression with SciPy and NumPy](https://www.kaggle.com/code/nibeditasahu/linear-regression-with-scipy-and-numpy)
 
 ### Body Fat Calculator
+
 - Python: Math, IpyWidgets, IPython, Pandas, Streamlit
 - Repo: [Body Fat Calculator](https://github.com/nibeditans/Body-Fat-Calculator)
 - Read Articles:
     - [Body Fat Calculator: Command-Line and Interactive Notebook](https://ai.plainenglish.io/body-fat-calculator-command-line-and-interactive-notebook-aa619e3d0f42)
     - [Body Fat Calculator: Pandas and Streamlit](https://python.plainenglish.io/body-fat-calculator-pandas-and-streamlit-a9f91391cc53)
 - Kaggle Notebook: [Body Fat Calculator](https://www.kaggle.com/code/nibeditasahu/body-fat-calculator)
+
 ____________________________________________________________________________________________________
 
 ## Mini-Projects

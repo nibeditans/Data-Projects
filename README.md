@@ -90,6 +90,11 @@ ________________________________________________________________________________
 
 ## Lab ⇰ Experiment • Build • Explore
 
+### Age Difference Calculator
+
+- Python: datetime, dateutil, streamlit
+- **Repo:** [Age Difference Calculator](https://github.com/nibeditans/Age-Difference-Calculator)
+
 ### Human Age Lens
 
 - Python: datetime, dateutil, streamlit
@@ -97,7 +102,7 @@ ________________________________________________________________________________
 
 ### AI-Powered Marketing Campaign Intelligence System
 
-- Python: NumPy, Pandas, Requests,
+- Python: NumPy, Pandas, Requests
 - Gen AI: LLM APIs
 - Repo: [AI-Powered Marketing Campaign Intelligence System](https://github.com/nibeditans/AI-Powered-Marketing-Campaign-Intelligence-System)
 - Read Article: [From Metrics to Decisions: Building an AI-Powered Marketing Intelligence System](https://ai.plainenglish.io/from-metrics-to-decisions-building-an-ai-powered-marketing-intelligence-system-45ed70643dbc)

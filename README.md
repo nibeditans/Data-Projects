@@ -99,6 +99,7 @@ ________________________________________________________________________________
 
 - Python: datetime, dateutil, streamlit
 - Repo: [How Old Are You Really?](https://github.com/nibeditans/Human-Age-Lens)
+- Kaggle Notebook: [How Old Are You Really?](https://www.kaggle.com/code/nibeditasahu/how-old-are-you-really)
 
 ### AI-Powered Marketing Campaign Intelligence System
 

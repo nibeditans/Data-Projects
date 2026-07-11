@@ -1,90 +1,45 @@
 # Data Science, Machine Learning, and Analytics Projects
 
-This is a curated collection of my selected Data projects, gathered in one place for easy access and showcase.
+This is a curated collection of my Data projects, gathered in one place for easy access and showcase.
 
-Alright! So, here's the list of a few:
+⭐ If you found these projects helpful or interesting, feel free to star and fork the repository! 
 
 ----------
 
 ## Customer Retention & Revenue Optimization System
 
 ### Tools and Technologies Used
+
 - **Python:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SQLAlchemy, OS
 - **SQL:** PostgreSQL
-- **Power BI:** Power BI Desktop
+- **BI Tools:** Power BI
 - **Presentation:** PowerPoint
 
 ### Resources
-- Complete Project: [Customer Retention & Revenue Optimization System](https://github.com/nibeditans/Customer-Retention-Revenue-Optimization-System)
+
+- Main Repo: [Customer Retention & Revenue Optimization System](https://github.com/nibeditans/Customer-Retention-Revenue-Optimization-System)
 - Complete Project Walkthrough: [How to Identify High-Value Customers and Maximize Revenue with Data Science?](https://nsdsda.medium.com/how-to-identify-high-value-customers-and-maximize-revenue-with-data-science-110f77446c6b)
 - Kaggle Dataset: [Customer Retention & Revenue Optimization Dataset](https://www.kaggle.com/datasets/nibeditasahu/ustomer-retention-and-revenue-optimization-dataset)
 
 
-## Electric Vehicle Population Analysis
+## Time Series Analysis & Forecasting with Nutrition Data (2022–2025)
 
 ### Tools and Technologies Used
-- **Python:** Pandas, SQLAlchemy, NumPy, Matplotlib, Seaborn
-- **SQL:** MySQL
-- **Power BI:** Power BI Desktop, Power Query Editor, Dax
-- **Presentation:** Canva
+
+- **Python:** NumPy, Pandas, Matplotlib, StatsModels, Scikit-learn
+- **BI Tools:** Power BI, Tableau
 
 ### Resources
-- Complete Project: [Electric Vehicle Population Analysis](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis)
-- Complete Project Walkthrough: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
-- Kaggle Dataset: [Electric Vehicle Population Data](https://www.kaggle.com/datasets/nibeditasahu/electric-vehicle-population-analysis)
 
-
-## Employee Attrition Analysis on IBM HR Data
-
-### Tools and Technologies Used
-- **Python:** Pandas, Matplotlib, Seaborn
-- **Power BI:** Power BI Desktop, Power Query Editor, Dax
-
-### Resources
-- Complete Project: [IBM HR Employee Attrition Analysis](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data)
-- Complete Project Walkthrough: [Employee Attrition Analysis On IBM HR Data](https://nsdsda.medium.com/employee-attrition-analysis-on-ibm-hr-data-db3e07ebad43)
-- Kaggle Dataset: [IBM HR Employee Attrition Data](https://www.kaggle.com/datasets/nibeditasahu/ibm-hr-employee-attrition-analysis)
-
-
-## Customer Sales Performance Analysis
-
-### Tools and Technologies Used
-- **Python:** Pandas, Matplotlib, Seaborn
-- **SQL:** MySQL
-- **Power BI:** Power BI Desktop, Power Query Editor, Dax
-- **Presentation:** PowerPoint
-
-### Resources
-- Complete Project: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis)
-- Project Walkthroughs:
-    - Article 1: [Customer Sales Analysis — Python Version (Part-1)](https://nsdsda.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
-    - Article 2: [Customer Sales Analysis — SQL Version (Part-2)](https://nsdsda.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
-    - Article 3: [Customer Sales Analysis — Power BI Version (Part-3)](https://nsdsda.medium.com/customer-sales-analysis-power-bi-version-part-3-433c21feb1e7)
-- Kaggle Dataset: [Customer Sales Data](https://www.kaggle.com/datasets/nibeditasahu/customer-sales-analysis)
-
-
-## Credit Card Financial Analysis
-
-### Tools and Technologies Used
-- **Power BI:** Power BI Desktop, Power Query Editor, Dax
-- **Presentation:** PowerPoint
-
-### Resources
-- Complete Project: [Credit Card Financial Analysis](https://github.com/nibeditans/Credit-Card-Financial-Dashboard)
-- Complete Project Walkthrough: [Credit Card Financial Dashboard](https://nsdsda.medium.com/credit-card-financial-dashboard-f99bd6263b5a)
-- Kaggle Dataset: [Credit Card and Customers Datasets](https://www.kaggle.com/datasets/nibeditasahu/credit-card-financial-dashboard-using-power-bi)
-
-
-## Super Store Sales Analysis & Forecasting
-
-### Tools and Technologies Used
-- **Power BI:** Power BI Desktop, Power Query Editor, Dax
-- **Presentation:** PowerPoint
-
-### Resources
-- Complete Project: [Super Store Sales Analysis & Forecasting](https://github.com/nibeditans/Super-Store-Sales-Dashboard)
-- Complete Project Walkthrough: [Super Store Sales Dashboard & Forecasting](https://nsdsda.medium.com/super-store-sales-dashboard-forecasting-b2252da4f726)
-- Kaggle Dataset: [Super Store Sales Data](https://www.kaggle.com/datasets/nibeditasahu/super-store-sales-dashboard)
+- Main Repo: [Nutrition Time Series Analysis (2022–2025)](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data?tab=readme-ov-file#nutrition-time-series-analysis-20222025)
+- Read Walkthroughs & Articles:
+    - [Building a Real-World Time Series Project with Nutrition Data](https://nsdsda.medium.com/building-a-real-world-time-series-project-with-nutrition-data-eff2970c2c8f)
+    - [Handling Dates, Times & Time Series Data in Pandas](https://pub.towardsai.net/handling-dates-times-time-series-data-in-pandas-d4e8fcc46c62)
+- Kaggle Dataset & Notebooks:
+    - [Nutrition Dataset](https://www.kaggle.com/datasets/nibeditasahu/nutrition-time-series-analysis-20222025?select=nutrition_data.csv)
+    - [Handling Dates, Times, and Time Series Data](https://www.kaggle.com/code/nibeditasahu/handling-dates-times-and-time-series-data)
+    - [Time Series Analysis](https://www.kaggle.com/code/nibeditasahu/time-series-analysis)
+    - [Time Series Forecasting](https://www.kaggle.com/code/nibeditasahu/time-series-forecasting)
 
 ____________________________________________________________________________________________________
 
@@ -108,19 +63,6 @@ ________________________________________________________________________________
 - Repo: [AI-Powered Marketing Campaign Intelligence System](https://github.com/nibeditans/AI-Powered-Marketing-Campaign-Intelligence-System)
 - Read Article: [From Metrics to Decisions: Building an AI-Powered Marketing Intelligence System](https://ai.plainenglish.io/from-metrics-to-decisions-building-an-ai-powered-marketing-intelligence-system-45ed70643dbc)
 - Kaggle Notebook: [Campaign Data Simulation](https://www.kaggle.com/code/nibeditasahu/campaign-data-simulation)
-
-### Nutrition Time Series Analysis (2022–2025)
-
-- Python: NumPy, Pandas, Matplotlib, StatsModels, Scikit-learn
-- BI Tools: Power BI, Tableau
-- Repo: [Nutrition Time Series Analysis (2022–2025)](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data?tab=readme-ov-file#nutrition-time-series-analysis-20222025)
-- Read Articles:
-    - [Building a Real-World Time Series Project with Nutrition Data](https://nsdsda.medium.com/building-a-real-world-time-series-project-with-nutrition-data-eff2970c2c8f)
-    - [Handling Dates, Times & Time Series Data in Pandas](https://pub.towardsai.net/handling-dates-times-time-series-data-in-pandas-d4e8fcc46c62)
-- Kaggle Notebooks:
-    - [Handling Dates, Times, and Time Series Data](https://www.kaggle.com/code/nibeditasahu/handling-dates-times-and-time-series-data)
-    - [Time Series Analysis](https://www.kaggle.com/code/nibeditasahu/time-series-analysis)
-    - [Time Series Forecasting](https://www.kaggle.com/code/nibeditasahu/time-series-forecasting)
 
 ### Linear Regression (SLR & MLR)
 
@@ -146,27 +88,73 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________
 
-## Mini-Projects
+## Analytics Projects
 
-### Snake Game Using Turtle
-- Standard Python, Turtle
-- [Snake Game](https://github.com/nibeditans/Snake-Game)
+### Electric Vehicle Population Analysis
 
-### Rock Paper Scissors
-- Standard Python, Random
-- [Rock_Paper_Scissors](https://github.com/nibeditans/Rock_Paper_Scissors)
+#### Tools and Technologies Used
+- **Python:** Pandas, SQLAlchemy, NumPy, Matplotlib, Seaborn
+- **SQL:** MySQL
+- **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- **Presentation:** Canva
 
-### Email Validation using String
-- Standard Python
-- [Email Validation](https://github.com/nibeditans/Email-Validation-using-String-)
+#### Resources
+- Complete Project: [Electric Vehicle Population Analysis](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis)
+- Complete Project Walkthrough: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
+- Kaggle Dataset: [Electric Vehicle Population Data](https://www.kaggle.com/datasets/nibeditasahu/electric-vehicle-population-analysis)
 
-### Scientific Calculator
-- Standard Python, Math 
-- [Scientific Calculator](https://github.com/nibeditans/Scientific-Calculator)
 
-____________________________________________________________________________________________________
+### Employee Attrition Analysis on IBM HR Data
 
-## Other DA Projects
+#### Tools and Technologies Used
+- **Python:** Pandas, Matplotlib, Seaborn
+- **Power BI:** Power BI Desktop, Power Query Editor, Dax
+
+#### Resources
+- Complete Project: [IBM HR Employee Attrition Analysis](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data)
+- Complete Project Walkthrough: [Employee Attrition Analysis On IBM HR Data](https://nsdsda.medium.com/employee-attrition-analysis-on-ibm-hr-data-db3e07ebad43)
+- Kaggle Dataset: [IBM HR Employee Attrition Data](https://www.kaggle.com/datasets/nibeditasahu/ibm-hr-employee-attrition-analysis)
+
+
+### Customer Sales Performance Analysis
+
+#### Tools and Technologies Used
+- **Python:** Pandas, Matplotlib, Seaborn
+- **SQL:** MySQL
+- **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- **Presentation:** PowerPoint
+
+#### Resources
+- Complete Project: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis)
+- Project Walkthroughs:
+    - Article 1: [Customer Sales Analysis — Python Version (Part-1)](https://nsdsda.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
+    - Article 2: [Customer Sales Analysis — SQL Version (Part-2)](https://nsdsda.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
+    - Article 3: [Customer Sales Analysis — Power BI Version (Part-3)](https://nsdsda.medium.com/customer-sales-analysis-power-bi-version-part-3-433c21feb1e7)
+- Kaggle Dataset: [Customer Sales Data](https://www.kaggle.com/datasets/nibeditasahu/customer-sales-analysis)
+
+
+### Credit Card Financial Analysis
+
+#### Tools and Technologies Used
+- **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- **Presentation:** PowerPoint
+
+#### Resources
+- Complete Project: [Credit Card Financial Analysis](https://github.com/nibeditans/Credit-Card-Financial-Dashboard)
+- Complete Project Walkthrough: [Credit Card Financial Dashboard](https://nsdsda.medium.com/credit-card-financial-dashboard-f99bd6263b5a)
+- Kaggle Dataset: [Credit Card and Customers Datasets](https://www.kaggle.com/datasets/nibeditasahu/credit-card-financial-dashboard-using-power-bi)
+
+
+### Super Store Sales Analysis & Forecasting
+
+#### Tools and Technologies Used
+- **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- **Presentation:** PowerPoint
+
+#### Resources
+- Complete Project: [Super Store Sales Analysis & Forecasting](https://github.com/nibeditans/Super-Store-Sales-Dashboard)
+- Complete Project Walkthrough: [Super Store Sales Dashboard & Forecasting](https://nsdsda.medium.com/super-store-sales-dashboard-forecasting-b2252da4f726)
+- Kaggle Dataset: [Super Store Sales Data](https://www.kaggle.com/datasets/nibeditasahu/super-store-sales-dashboard)
 
 
 ### Diwali Sales Analysis
@@ -236,7 +224,23 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________
 
-## A Few Fun Programs
+## A Few Python Programs
+
+### Snake Game Using Turtle
+- Standard Python, Turtle
+- [Snake Game](https://github.com/nibeditans/Snake-Game)
+
+### Rock Paper Scissors
+- Standard Python, Random
+- [Rock_Paper_Scissors](https://github.com/nibeditans/Rock_Paper_Scissors)
+
+### Email Validation using String
+- Standard Python
+- [Email Validation](https://github.com/nibeditans/Email-Validation-using-String-)
+
+### Scientific Calculator
+- Standard Python, Math 
+- [Scientific Calculator](https://github.com/nibeditans/Scientific-Calculator)
 
 ### Classification Analysis
 - Python: Pandas, Scikit-Learn
@@ -268,9 +272,10 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________
 
-For more interesting DS & DA related Stuff, check out my Portfolio & Profiles:
+For more interesting Data Science & Machine Learning related content, check out my Portfolio & Profiles:
 - Portfolio: [Nibedita](https://nibeditans.github.io/)
 - GitHub: [nibeditans](https://github.com/nibeditans)
 - LinkedIn: [Nibedita Sahu](https://in.linkedin.com/in/ns-nibedita-sahu)
 - Medium: [NIBEDITA (NS)](https://nsdsda.medium.com/)
 - Kaggle: [Nibedita Sahu](https://www.kaggle.com/nibeditasahu)
+- Hugging Face: [Nibedita Sahu](https://huggingface.co/nibeditans)

@@ -2,7 +2,7 @@
 
 This is a curated collection of my Data projects, gathered in one place for easy access and showcase.
 
-⭐ If you found these projects helpful or interesting, feel free to star and fork the repository! 
+⭐ If you found these projects helpful or interesting, feel free to star and fork the project repositories! 
 
 ----------
 

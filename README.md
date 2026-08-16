@@ -6,6 +6,20 @@ This is a curated collection of my Data projects, gathered in one place for easy
 
 ----------
 
+## Airline Payment Fraud Decision Intelligence System
+
+### Tools and Technologies Used
+
+- **Python:** NumPy, Pandas, Matplotlib, Scikit-learn, XGBoost, Streamlit
+- **SQL:** DuckDB
+
+### Resources
+
+- Main Repo: [Airline Payment Fraud Decision Intelligence System](https://github.com/nibeditans/Airline-Payment-Fraud-Decision-Intelligence-System)
+- Complete Project Walkthrough: [How I Built an Airline Payment Fraud Detection System with Machine Learning and Explainable AI](https://nsdsda.medium.com/how-i-built-an-airline-payment-fraud-detection-system-with-machine-learning-and-explainable-ai-d8d87f1448c7)
+- HUgging Face Model: [nibeditans/Airline-Payment-Fraud-XGBoost](https://huggingface.co/nibeditans/Airline-Payment-Fraud-XGBoost)
+
+
 ## Customer Retention & Revenue Optimization System
 
 ### Tools and Technologies Used
@@ -20,6 +34,10 @@ This is a curated collection of my Data projects, gathered in one place for easy
 - Main Repo: [Customer Retention & Revenue Optimization System](https://github.com/nibeditans/Customer-Retention-Revenue-Optimization-System)
 - Complete Project Walkthrough: [How to Identify High-Value Customers and Maximize Revenue with Data Science?](https://nsdsda.medium.com/how-to-identify-high-value-customers-and-maximize-revenue-with-data-science-110f77446c6b)
 - Kaggle Dataset: [Customer Retention & Revenue Optimization Dataset](https://www.kaggle.com/datasets/nibeditasahu/ustomer-retention-and-revenue-optimization-dataset)
+- Hugging Face Dataset: [nibeditans/crros-customer-behavior-dataset](https://huggingface.co/datasets/nibeditans/crros-customer-behavior-dataset)
+- Hugging Face Models:
+    - [nibeditans/crros-churn-prediction-model](https://huggingface.co/nibeditans/crros-churn-prediction-model)
+    - [nibeditans/crros-purchase-probability-model](https://huggingface.co/nibeditans/crros-purchase-probability-model)
 
 
 ## Time Series Analysis & Forecasting with Nutrition Data (2022–2025)

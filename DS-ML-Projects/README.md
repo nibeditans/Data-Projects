@@ -1,5 +1,10 @@
 # Data Science & Machine Learning Projects
 
+## Airline Payment Fraud Decision Intelligence System
+
+- **Software & Tools:** Python, DuckDB, NumPy, Pandas, Matplotlib, Scikit-learn, XGBoost, Streamlit
+- **Repo:** [Airline Payment Fraud Decision Intelligence System](https://github.com/nibeditans/Airline-Payment-Fraud-Decision-Intelligence-System)
+
 ## Customer Retention & Revenue Optimization System
 
 - **Software & Tools:** Python, SQL, PostgreSQL, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SQLAlchemy, OS, POwer BI, PowerPoint

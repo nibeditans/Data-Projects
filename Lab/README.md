@@ -28,7 +28,7 @@ This is where I experiment, build, and play with Data Science and Machine Learni
 ### Regression Framework for Systolic Blood Pressure Prediction
 
 - **Software & Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, GGPlot, SciPy, StatsModels, Scikit-learn
-- **Repo:** [Regression Framework for SBP Prediction](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework)
+- **Repo:** [Regression Framework for SBP Prediction](https://github.com/nibeditans/Regression-Framework-for-Systolic-Blood-Pressure-Prediction)
 
 ### Body Fat Calculator
 

@@ -83,10 +83,10 @@ ________________________________________________________________________________
 - Read Article: [From Metrics to Decisions: Building an AI-Powered Marketing Intelligence System](https://ai.plainenglish.io/from-metrics-to-decisions-building-an-ai-powered-marketing-intelligence-system-45ed70643dbc)
 - Kaggle Notebook: [Campaign Data Simulation](https://www.kaggle.com/code/nibeditasahu/campaign-data-simulation)
 
-### Linear Regression (SLR & MLR)
+### Regression Framework for Systolic Blood Pressure Prediction
 
 - Python: NumPy, Pandas, Matplotlib, Seaborn, GGPlot, SciPy, StatsModels, Scikit-learn
-- Repo: [Regression Framework](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework)
+- Repo: [Regression Framework](https://github.com/nibeditans/Regression-Framework-for-Systolic-Blood-Pressure-Prediction)
 - Read Article: [Building a Complete Regression Framework for Systolic Blood Pressure Prediction](https://python.plainenglish.io/building-a-complete-regression-framework-for-systolic-blood-pressure-prediction-d454b813a0ad)
 - Kaggle Notebooks:
     - [Simple Linear Regression](https://www.kaggle.com/code/nibeditasahu/simple-linear-regression)

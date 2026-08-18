@@ -18,6 +18,9 @@ This is a curated collection of my Data projects, gathered in one place for easy
 - Main Repo: [Airline Payment Fraud Decision Intelligence System](https://github.com/nibeditans/Airline-Payment-Fraud-Decision-Intelligence-System)
 - Live App: [Airline Fraud Detection App](https://airline-fraud-detection.streamlit.app/)
 - Complete Project Walkthrough: [How I Built an Airline Payment Fraud Detection System with Machine Learning and Explainable AI](https://nsdsda.medium.com/how-i-built-an-airline-payment-fraud-detection-system-with-machine-learning-and-explainable-ai-d8d87f1448c7)
+- Kaggle Resources:
+    - Dataset: [Airline Fraud Transactions Dataset](https://www.kaggle.com/datasets/nibeditasahu/airline-fraud-cleaned-data)]
+    - Model: [Airline Fraud Detection — XGBoost Classifier](https://www.kaggle.com/models/nibeditasahu/airline-fraud-detection-xgboost-model)
 - Hugging Face Model: [nibeditans/Airline-Payment-Fraud-XGBoost](https://huggingface.co/nibeditans/Airline-Payment-Fraud-XGBoost)
 
 
@@ -34,7 +37,11 @@ This is a curated collection of my Data projects, gathered in one place for easy
 
 - Main Repo: [Customer Retention & Revenue Optimization System](https://github.com/nibeditans/Customer-Retention-Revenue-Optimization-System)
 - Complete Project Walkthrough: [How to Identify High-Value Customers and Maximize Revenue with Data Science?](https://nsdsda.medium.com/how-to-identify-high-value-customers-and-maximize-revenue-with-data-science-110f77446c6b)
-- Kaggle Dataset: [Customer Retention & Revenue Optimization Dataset](https://www.kaggle.com/datasets/nibeditasahu/ustomer-retention-and-revenue-optimization-dataset)
+- Kaggle Resources:
+    - Dataset: [Customer Retention & Revenue Optimization Dataset](https://www.kaggle.com/datasets/nibeditasahu/ustomer-retention-and-revenue-optimization-dataset)
+    - Models:
+        - [Customer Churn Prediction Model](https://www.kaggle.com/models/nibeditasahu/customer-churn-prediction-model)
+        - [Purchase Probability Prediction Model](https://www.kaggle.com/models/nibeditasahu/purchase-probability-prediction-model)
 - Hugging Face Dataset: [nibeditans/crros-customer-behavior-dataset](https://huggingface.co/datasets/nibeditans/crros-customer-behavior-dataset)
 - Hugging Face Models:
     - [nibeditans/crros-churn-prediction-model](https://huggingface.co/nibeditans/crros-churn-prediction-model)

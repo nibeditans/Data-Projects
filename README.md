@@ -19,7 +19,7 @@ This is a curated collection of my Data projects, gathered in one place for easy
 - Live App: [Airline Fraud Detection App](https://airline-fraud-detection.streamlit.app/)
 - Complete Project Walkthrough: [How I Built an Airline Payment Fraud Detection System with Machine Learning and Explainable AI](https://nsdsda.medium.com/how-i-built-an-airline-payment-fraud-detection-system-with-machine-learning-and-explainable-ai-d8d87f1448c7)
 - Kaggle Resources:
-    - Dataset: [Airline Fraud Transactions Dataset](https://www.kaggle.com/datasets/nibeditasahu/airline-fraud-cleaned-data)]
+    - Dataset: [Airline Fraud Transactions Dataset](https://www.kaggle.com/datasets/nibeditasahu/airline-fraud-cleaned-data)
     - Model: [Airline Fraud Detection — XGBoost Classifier](https://www.kaggle.com/models/nibeditasahu/airline-fraud-detection-xgboost-model)
 - Hugging Face Model: [nibeditans/Airline-Payment-Fraud-XGBoost](https://huggingface.co/nibeditans/Airline-Payment-Fraud-XGBoost)
 
